@@ -1,2 +1,1 @@
-# HomeWork9
-Virtual voice assistant gavakete , romelsac sheudzlia sxvadasxva brdzanebebis shesruleba , magalitad google-is gaxsna an daxurva.
+I have created a Virtual voice assistant, which is very simple it works with 2 commands Open Google and Close Google.
